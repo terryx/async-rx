@@ -1,0 +1,15 @@
+{
+  "name": "async-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terry Yuen",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.4.0",
+    "rxjs": "^6.3.3"
+  }
+}
